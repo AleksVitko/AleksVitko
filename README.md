@@ -1,4 +1,10 @@
-# Hi, I am Alexsandr Vitko
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/96524338/195518660-de85a102-ae2d-42f7-86d0-7e6e843b7dce.png" width="16px" height="20px" />
+  Hi, I am Alexsandr Vitko <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mono&size=25&pause=1000&color=24B612&center=true&vCenter=true&width=500&lines=Doing+Webdev.;Love+To+Develop+that+help+people.;Eagar+for+new+Technology.;Security+Enthusiast.;Noob+😎" alt="Typing SVG" /></a>
+
+---
 
 # 💫 About Me:
 - My primary coding language: Python
@@ -7,11 +13,12 @@
 - I am Learning Full stack Development
 - My frontend skills are Javascript, Html, css, Bootstrap
 
----
-
 ![](https://komarev.com/ghpvc/?username=ShivamRohilllaa&color=blueviolet)
 
-# 💻 Tech Stack:
+---
+
+<h2 align="center"💻 Tech Stack:</h2>
+<p align="center">
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,18 +43,12 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+</p>
+  
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Burhanmohammad&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Burhanmohammad&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Burhanmohammad&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhanmohammad&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
