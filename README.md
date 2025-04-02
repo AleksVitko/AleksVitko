@@ -15,8 +15,8 @@
 ---
 
 # 💫 About Me:
-- My primary coding language: Python
-- Web Backend Framework:- Django, DjangoRestFramework
+- My primary coding language: Python, PHP, MySQL
+- Web Backend Framework:- WordPress, Django, DjangoRestFramework
 - Passionate for learning & exploring new Tech.
 - I am Learning Full stack Development
 - My frontend skills are Javascript, Html, css, Bootstrap
