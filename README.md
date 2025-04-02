@@ -54,7 +54,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Burhanmohammad&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AleksVitko&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
