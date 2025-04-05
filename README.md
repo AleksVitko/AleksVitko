@@ -59,7 +59,7 @@
 ---
 
 ### 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AleksVitko&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AleksVitko&theme=midnight-purple&background=000&border=30A3DC&locale=ru&dates=FFF)](https://git.io/streak-stats)
 
 ---
 
