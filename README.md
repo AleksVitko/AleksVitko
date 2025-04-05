@@ -54,7 +54,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AleksVitko&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleksVitko&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&short_numbers=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 ---
 
